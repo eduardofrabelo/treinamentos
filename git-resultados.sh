@@ -13,7 +13,7 @@ echo "O script foi executado em: $horario"
 
 git add .
 
-git commit -m "treinamento-script"
+git commit -m "treinamento-$horario"
 
 git push origin main
 
